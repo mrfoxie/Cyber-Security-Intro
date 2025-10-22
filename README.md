@@ -1,3 +1,5 @@
+# Use Obsidian for better usage
+
 # 🧠 Cybersecurity Awareness Training — Presentation Outline
 
 This repository contains the **complete presentation outline** for a multi-module **Cybersecurity Awareness Training Program**, designed to educate users and IT professionals on safe digital practices, threat awareness, and data protection.
