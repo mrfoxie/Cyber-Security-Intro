@@ -91,17 +91,6 @@ It’s suitable for:
 
 ---
 
-## 🧰 File Structure
-
-```
-📁 Cybersecurity-Awareness-Training/
-├── Presentation Outline.md   # Detailed outline of all modules
-├── README.md                 # This documentation file
-└── (Optional) Slides/        # PowerPoint or PDF slides when added
-```
-
----
-
 ## 🧑‍🏫 Author & Usage
 
 **Trainer:** Siddh Mistry  
