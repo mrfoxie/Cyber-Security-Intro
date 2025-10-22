@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "93620e22e7a08d15",
+    "type": "split",
+    "children": [
+      {
+        "id": "23efd1fe9f02f960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9165d63960303c5f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tree Map.canvas",
+                "viewState": {
+                  "x": 508.1356777940588,
+                  "y": 250.63679876927253,
+                  "zoom": -1.5255470768293609
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tree Map"
+            }
+          },
+          {
+            "id": "1544d80b87bfd36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5/USB Attacks (Rubber Ducky, BadUSB).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USB Attacks (Rubber Ducky, BadUSB)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33a4a4b067875644",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "171a18d9e55eab44",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6a0bdac9538ceab5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5a14d8ef6896a38d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "001eedde8898ef68",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "27b577e6bfa3f962",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5572f77e0e6b94d7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Presentation Outline.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "67019f24a296bbf4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Presentation Outline.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b962636d3aaa837d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Presentation Outline.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1544d80b87bfd36e",
+  "lastOpenFiles": [
+    "Demo.md",
+    "Untitled.md",
+    "Module 5/USB Attacks (Rubber Ducky, BadUSB).sync-conflict-20250805-125013-Y7GRS4A.md",
+    "Presentation Outline.md",
+    "Tree Map.canvas"
+  ]
+}

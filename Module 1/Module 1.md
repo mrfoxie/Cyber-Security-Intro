@@ -1,0 +1,15 @@
+---
+tags:
+  - Module_1
+  - Module_1_Sub
+---
+- [ ] [[Title Slide]]
+- [ ] [[Trainer Introduction]]
+- [ ] [[Training Agenda]]
+- [ ] [[Objective of this Training]]
+- [ ] [[Why Cybersecurity Matter]]?
+- [ ] [[Who's Responsible]]? (Everyone)
+- [ ] [[Icebreaker]]: "Have you ever...?" Security Questions
+- [ ] [[Myth vs Reality (Cybersecurity Myths)]]
+- [ ] [[What's at Stake]]? (Impact of Breaches)
+- [ ] [[Fun Fact]]: Top 5 Global Hacks

@@ -1,0 +1,20 @@
+---
+tags:
+  - Module_6
+  - Module_6_Sub
+---
+- [ ] [[Secure Browsing Habits]]
+- [ ] [[HTTPS vs HTTP]]
+- [ ] [[Avoiding Malicious Sites]]
+- [ ] [[Safe Download Practices]]
+- [ ] [[Ad Blockers & Anti-Trackers]]
+- [ ] [[Cookies & Privacy]]
+- [ ] [[Public Wi-Fi Dangers]]
+- [ ] [[VPNs – What They Do]]
+- [ ] [[Social Media Oversharing]]
+- [ ] [[Fake Profiles, Friend Requests]]
+- [ ] [[Identity Theft Warning Signs]]
+- [ ] [[Safe LinkedIn Use]]
+- [ ] [[Deepfakes & AI Voice Cloning]]
+- [ ] [[Quiz|Quiz: “Would You Post This?”]]
+- [ ] [[Personal Safety Recap]]

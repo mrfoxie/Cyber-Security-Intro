@@ -1,0 +1,21 @@
+---
+tags:
+  - Module_4
+  - Module_4_Sub
+---
+
+- [ ] [[Common Password Mistakes]]
+- [ ] [[Password Cracking Demo]]
+- [ ] [[Brute Force & Dictionary Attacks]]
+- [ ] [[Password Reuse Danger]]
+- [ ] [[Strong Password Rules]]
+- [ ] [[Passphrases vs Complex Gibberish]]
+- [ ] [[Password Managers Overview]]
+- [ ] [[Comparison of Tools (Bit warden, LastPass, KeePass)]]
+- [ ] [[2FA MFA – What & Why|2FA / MFA – What & Why]]
+- [ ] [[Real Examples|Real Examples: Google Auth, OTP, SMS]]
+- [ ] [[QR Code Login Risks]]
+- [ ] [[Password Sharing|Password Sharing = Good/Bad]]
+- [ ] [[Password Policy at Work]]
+- [ ] [[Secure Recovery Options]]
+- [ ] [[Summary & Tips]]

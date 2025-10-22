@@ -1,0 +1,21 @@
+---
+tags:
+  - Module_5
+  - Module_5_Sub
+---
+
+- [ ] [[Lock Your Screen Policy]]
+- [ ] [[Auto Logout|Auto Logout / Timeout Settings]]
+- [ ] [[Physical Security (Laptops, Drives)]]
+- [ ] [[Bring Your Own Device (BYOD) Risks]]
+- [ ] [[USB Attacks (Rubber Ducky, BadUSB)]]
+- [ ] [[Demo|Demo: What Happens When You Plug In]]
+- [ ] [[Data Classification|Data Classification Overview]]
+- [ ] [[Sensitive Data Handling (PII, PHI)]]
+- [ ] [[File Sharing & Permissions]]
+- [ ] [[Encryption Basics]]
+- [ ] [[Disk Encryption|Disk Encryption: BitLocker/VeraCrypt]]
+- [ ] [[Cloud Storage Risks]]
+- [ ] [[Stolen Device Procedure|Lost/Stolen Device Procedure]]
+- [ ] [[Working Remotely Security Tips]]
+- [ ] [[Module 5/Summary Slide]]

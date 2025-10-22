@@ -1,0 +1,365 @@
+{
+  "main": {
+    "id": "55452bbf1b92f548",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a7ea787fbe1e7b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7c4e262185824bac",
+            "type": "tabs",
+            "dimension": 65.33898305084746,
+            "children": [
+              {
+                "id": "04693586a334c198",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/Lock Your Screen Policy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lock Your Screen Policy"
+                }
+              },
+              {
+                "id": "8ceafd87b571c2ea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/Auto Logout.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Auto Logout"
+                }
+              },
+              {
+                "id": "964c38a5f33fb526",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/Physical Security (Laptops, Drives).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Physical Security (Laptops, Drives)"
+                }
+              },
+              {
+                "id": "1ebf2eaa62215ca1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/Bring Your Own Device (BYOD) Risks.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bring Your Own Device (BYOD) Risks"
+                }
+              },
+              {
+                "id": "b43f6632ef7cafb3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/USB Attacks (Rubber Ducky, BadUSB).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "USB Attacks (Rubber Ducky, BadUSB)"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "f9456c929e02a077",
+            "type": "tabs",
+            "dimension": 34.66101694915254,
+            "children": [
+              {
+                "id": "ca4dc97ff2f709e8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "0060124b948dccd5",
+        "type": "split",
+        "children": [
+          {
+            "id": "d2efbac709ca1e06",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edbec88172ff07ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Presentation Outline.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Presentation Outline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f2ebce585901f21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7bb245f5d3eef65c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 4/Module 4.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Module 4"
+                }
+              },
+              {
+                "id": "d35bb3baff53fef7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Module 5/Module 5.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Module 5"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6798a205a47c632d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70dacbbcd395b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35262bc3b29a0ac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f158f71973d0d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26b68987c5c7d907",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5086555480957
+  },
+  "right": {
+    "id": "8e4789587f648bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7062962e2e8c8ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24da31ac87fb243",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b22f68f1d3bae0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Presentation Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Presentation Outline"
+            }
+          },
+          {
+            "id": "b6fd7f9301190b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "084ff1416bf78515",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentation Outline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Presentation Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b43f6632ef7cafb3",
+  "lastOpenFiles": [
+    "Presentation Outline.sync-conflict-20250805-123500-Y7GRS4A.md",
+    "Tree Map.sync-conflict-20250805-123500-Y7GRS4A.canvas",
+    "~syncthing~Tree Map.sync-conflict-20250805-123500-Y7GRS4A.canvas.tmp",
+    "~syncthing~Presentation Outline.sync-conflict-20250805-123500-Y7GRS4A.md.tmp",
+    "Module 5/USB Attacks (Rubber Ducky, BadUSB).md",
+    "Module 5/Module 5.md",
+    "Module 5/Bring Your Own Device (BYOD) Risks.md",
+    "desktop.ini",
+    "Module 5/Physical Security (Laptops, Drives).md",
+    "Module 5/Auto Logout.md",
+    "Module 5/Lock Your Screen Policy.md",
+    "Tree Map.canvas",
+    "Presentation Outline.md",
+    "Module 4/Module 4.md",
+    "Module 5",
+    "Module 4/Summary & Tips.md",
+    "Module 2/Module 2.md",
+    "Module 2/Virus, Worms, Trojans.md",
+    "Module 2/What is a Cyber Threat.md",
+    "Module 4/Secure Recovery Options.md",
+    "Module 4/QR Code Login Risks.md",
+    "Module 4/Real Examples.md",
+    "Module 4/Strong Password Rules.md",
+    "Module 4/Password Reuse Danger.md",
+    "Module 4/Password Cracking Demo.md",
+    "Module 3/Module 3.md",
+    "Module 3/Office365.md",
+    "Module 3/How Attackers Craft Emails.md",
+    "Module 3/IT Perspective – Email Security Tools.md",
+    "Module 3/Quiz_2.md",
+    "Module 3/Quiz_1.md",
+    "Module 3/What to Do if You Click.md",
+    "Images/QR Code.png",
+    "Images/ChatGPT Image Jul 23, 2025, 04_33_23 PM.png",
+    "Module 4",
+    "Images/Best Practices Email Do’s & Don’ts.png",
+    "Images/Office365 Gmail Security Settings.png",
+    "Images/How Attackers Craft Emails.png",
+    "Images/Hover Link.png",
+    "Images/Anoatomy of a Phishing Email.png",
+    "Module 3",
+    "Images/Threat Recap.png",
+    "Images/Cyber Attack Lifecycle.png",
+    "Images/Insider Threats.png",
+    "Images",
+    "ages",
+    "New folder",
+    "Module 2"
+  ]
+}

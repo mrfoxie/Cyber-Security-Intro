@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "55452bbf1b92f548",
+    "type": "split",
+    "children": [
+      {
+        "id": "97bb7b62693c920b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "960896f97a1a9816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 2/Module 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6798a205a47c632d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70dacbbcd395b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35262bc3b29a0ac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f158f71973d0d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26b68987c5c7d907",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aec9b1bb9aae7fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6761aad93cb843b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "8e4789587f648bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7062962e2e8c8ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24da31ac87fb243",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 2/Spyware & Adware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Spyware & Adware"
+            }
+          },
+          {
+            "id": "4b22f68f1d3bae0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 2/Spyware & Adware.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Spyware & Adware"
+            }
+          },
+          {
+            "id": "b6fd7f9301190b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "084ff1416bf78515",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 2/Module 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "960896f97a1a9816",
+  "lastOpenFiles": [
+    "Module 2/Hacker Types.md",
+    "Module 2/Module 2.md",
+    "Module 2/Malware – Types Overview.md",
+    "Module 2/Phishing.md",
+    "Module 2/Phishing – Email Example.md",
+    "Module 2/Phishing – Intro.md",
+    "Presentation Outline.md",
+    "Module 7/Module 7.md",
+    "Cybersecurity Tree Maps.md",
+    "Module 1/Who's Responsible-MistrySiddh.md",
+    "Module 2/Spyware & Adware.md",
+    "Demo.md",
+    "Module 2/Keylogger.md",
+    "Module 2/Ransomware (with visuals).md",
+    "Module 2/Virus, Worms, Trojans.md",
+    "Module 2/Threat Categories.md",
+    "Module 2/What is a Cyber Threat.md",
+    "Module 2/Man-in-the-Middle (MITM).md",
+    "Cybersecurity Tree Maps-MistrySiddh.md",
+    "Module 1/Module 1.md",
+    "Module 1/Fun Fact.md",
+    "Module 1/What's at Stake.md",
+    "Module 1/Myth vs Reality (Cybersecurity Myths).md",
+    "Module 1/Icebreaker.md",
+    "Module 1/Who's Responsible.md",
+    "Module 1/Why Cybersecurity Matter.md",
+    "Module 9",
+    "Images/Defense.png",
+    "Images/ChatGPT Image Sep 1, 2025, 10_57_13 AM.png.crdownload",
+    "Module 8",
+    "Tree Map.canvas",
+    "Images/Email Gateway Filtering.png",
+    "Images/ChatGPT Image Aug 27, 2025, 02_26_57 PM.png.crdownload",
+    "Module 7",
+    "Module 6",
+    "Tree Map.sync-conflict-20250805-123500-Y7GRS4A.canvas",
+    "Module 5/~syncthing~USB Attacks (Rubber Ducky, BadUSB).sync-conflict-20250805-125013-Y7GRS4A.md.tmp",
+    "~syncthing~Tree Map.sync-conflict-20250805-123500-Y7GRS4A.canvas.tmp",
+    "~syncthing~Presentation Outline.sync-conflict-20250805-123500-Y7GRS4A.md.tmp",
+    "desktop.ini",
+    "Images/QR Code.png",
+    "Images/ChatGPT Image Jul 23, 2025, 04_33_23 PM.png",
+    "Images/Best Practices Email Do’s & Don’ts.png",
+    "Images/Office365 Gmail Security Settings.png",
+    "Images/How Attackers Craft Emails.png",
+    "Images/Hover Link.png",
+    "Images/Anoatomy of a Phishing Email.png",
+    "Images/Threat Recap.png"
+  ]
+}

@@ -1,0 +1,20 @@
+---
+tags:
+  - Module_3
+  - Module_3_Sub
+---
+- [ ] [[Anatomy of a Phishing Email]]
+- [ ] [[Spoofed Email Examples]]
+- [ ] [[Hover Link vs Real URL]]
+- [ ] [[Attachment Dangers (Zip, PDF, Word)]]
+- [ ] [[Urgency and Manipulation Tactics]]
+- [ ] [[Email Filtering & Spam Traps]]
+- [ ] [[What to Do if You Click]]
+- [ ] [[Whaling & Business Email Compromise (BEC)]]
+- [ ] [[Quiz_1|Quiz: Phish or Legit? (Slide 1)]]
+- [ ] [[Quiz_2|Quiz: Phish or Legit? (Slide 2)]]
+- [ ] [[IT Perspective – Email Security Tools]]
+- [ ] [[How Attackers Craft Emails]]
+- [ ] [[Office365|Office365/Gmail Security Settings]]
+- [ ] [[Best Practices|Best Practices: Email Do’s & Don’ts]]
+- [ ] [[Module 3/Summary Slide]]

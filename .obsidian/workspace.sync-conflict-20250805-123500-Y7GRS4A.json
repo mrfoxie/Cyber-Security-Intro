@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "55452bbf1b92f548",
+    "type": "split",
+    "children": [
+      {
+        "id": "939f9553e6d87c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5214d631892f300c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6798a205a47c632d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70dacbbcd395b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35262bc3b29a0ac8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f158f71973d0d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26b68987c5c7d907",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5086555480957
+  },
+  "right": {
+    "id": "8e4789587f648bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7062962e2e8c8ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24da31ac87fb243",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b22f68f1d3bae0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Presentation Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Presentation Outline"
+            }
+          },
+          {
+            "id": "b6fd7f9301190b88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "084ff1416bf78515",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Presentation Outline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Presentation Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5214d631892f300c",
+  "lastOpenFiles": [
+    "Tree Map.canvas",
+    "Module 2/Module 2.md",
+    "Module 4/Module 4.md",
+    "Module 4/Summary & Tips.md",
+    "Presentation Outline.md",
+    "Module 4/Secure Recovery Options.md",
+    "Module 4/QR Code Login Risks.md",
+    "Module 4/Real Examples.md",
+    "Module 4/Strong Password Rules.md",
+    "Module 4/Password Reuse Danger.md",
+    "Module 4/Password Cracking Demo.md",
+    "Module 3/Module 3.md",
+    "Module 3/Office365.md",
+    "Module 3/How Attackers Craft Emails.md",
+    "Module 3/IT Perspective – Email Security Tools.md",
+    "Module 3/Quiz_2.md",
+    "Module 3/Quiz_1.md",
+    "Module 3/What to Do if You Click.md",
+    "Module 3/Urgency and Manipulation Tactics.md",
+    "Module 3/Hover Link vs Real URL.md",
+    "Module 3/Spoofed Email Examples.md",
+    "Module 3/Anatomy of a Phishing Email.md",
+    "Module 2/Fun Quiz.md",
+    "Module 2/Common Vulnerabilities in Humans (Psych Tricks).md",
+    "Module 2/Insider Threats.md",
+    "Module 2/Man-in-the-Middle (MITM).md",
+    "Images/QR Code.png",
+    "Images/ChatGPT Image Jul 23, 2025, 04_33_23 PM.png",
+    "Module 4",
+    "Images/Best Practices Email Do’s & Don’ts.png",
+    "Images/Office365 Gmail Security Settings.png",
+    "Images/How Attackers Craft Emails.png",
+    "Images/Hover Link.png",
+    "Images/Anoatomy of a Phishing Email.png",
+    "Module 3",
+    "Images/Threat Recap.png",
+    "Images/Cyber Attack Lifecycle.png",
+    "Images/Insider Threats.png",
+    "Images",
+    "ages",
+    "New folder",
+    "Module 2",
+    "Module 1",
+    "desktop.ini"
+  ]
+}

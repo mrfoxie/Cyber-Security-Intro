@@ -1,0 +1,25 @@
+---
+tags:
+  - Module_2
+  - Module_2_Sub
+---
+- [ ] [[What is a Cyber Threat]]?
+- [ ] [[Threat Categories]] (Internal / External)
+- [ ] [[Phishing – Intro]]
+- [ ] [[Phishing – Email Example]]
+- [ ] [[Phishing]] – SMS/Voice/WhatsApp
+- [ ] [[Malware – Types Overview]]
+- [ ] [[Virus, Worms, Trojans]]
+- [ ] [[Ransomware (with visuals)]]
+- [ ] [[Keylogger]]
+- [ ] [[Spyware & Adware]]
+- [ ] [[Social Engineering Explained]]
+- [ ] [[Baiting & Pretexting]]
+- [ ] [[Tailgating & Shoulder Surfing]]
+- [ ] [[Man-in-the-Middle (MITM)]]
+- [ ] [[Insider Threats]] (Unintentional/Intentional)
+- [ ] [[Common Vulnerabilities in Humans (Psych Tricks)]]
+- [ ] [[Fun Quiz]]: Name That Threat
+- [ ] [[Hacker Types]]: White / Black / Grey Hat
+- [ ] [[Attack Lifecycle (Recon to Exfil)]]
+- [ ] [[Threat Recap Slide]]
